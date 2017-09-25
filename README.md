@@ -7,7 +7,7 @@ To start out, you’ll need to have Node and NPM installed. If you don’t alrea
 in your Terminal.
 
 Next, clone the repository by typing in 
-  `git clone https://github.com/benuchadnezzar/subway-checker`
+  `git clone https://github.com/benuchadnezzar/flapper-news`
 
 And finally, enter 
   `npm install`
